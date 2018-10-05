@@ -1,0 +1,10 @@
+C:\Users\Asim\source\repos\Homework\bin\Debug\Homework.exe.config
+C:\Users\Asim\source\repos\Homework\bin\Debug\Homework.exe
+C:\Users\Asim\source\repos\Homework\bin\Debug\Homework.pdb
+C:\Users\Asim\source\repos\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Asim\source\repos\Homework\obj\Debug\Homework.Form1.resources
+C:\Users\Asim\source\repos\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\Asim\source\repos\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+C:\Users\Asim\source\repos\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Asim\source\repos\Homework\obj\Debug\Homework.exe
+C:\Users\Asim\source\repos\Homework\obj\Debug\Homework.pdb
